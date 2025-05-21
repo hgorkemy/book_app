@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "publisher": "Addison-Wesley",
+      "year": 1999,
+      "description": "A classic book covering practical software development principles.",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "year": 2008,
+      "description": "A handbook of agile software craftsmanship.",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX374_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Algorithms",
+      "author": "Cormen, Leiserson, Rivest, Stein",
+      "publisher": "MIT Press",
+      "year": 2009,
+      "description": "Comprehensive textbook on algorithms.",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41Woj5z1gkL._SX376_BO1,204,203,200_.jpg"
+    }
+  ]
